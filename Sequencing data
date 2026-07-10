@@ -1,0 +1,42 @@
+# Sequencing Data
+
+## Overview
+This repository contains processed sequencing information associated with the undergraduate research project:
+
+**Incidence and Genetic Risk Contribution of the PDX1 E224K Mutation in Type 2 Diabetes in Sri Lanka**
+
+## Sequencing Platform
+- Method: Sanger Sequencing
+- Target Gene: PDX1
+- Variant Investigated: E224K (c.670G>A)
+- DNA Source: Human genomic DNA
+- Study Design: Pilot case–control study
+
+## Samples
+- Type 2 Diabetes cases: 6
+- Healthy controls: 7
+- Total sequenced samples: 13
+
+## Laboratory Workflow
+1. Genomic DNA extraction
+2. PCR amplification of the PDX1 target region
+3. PCR product purification
+4. BigDye Terminator Cycle Sequencing
+5. Capillary electrophoresis using the SeqStudio Genetic Analyzer
+6. Chromatogram quality assessment
+7. Sequence alignment and mutation analysis
+
+## Data Included
+- Sequence alignments
+- Mutation screening summary
+- Processed variant analysis
+- Figures used in the thesis
+
+## Results
+No PDX1 E224K (c.670G>A) mutation was detected in the sequenced samples included in this pilot study.
+
+## Ethical Statement
+No personally identifiable participant information is included in this repository. All data have been anonymized.
+
+## Citation
+If you use this repository, please cite the accompanying Zenodo record and undergraduate thesis.
